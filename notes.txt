@@ -1,0 +1,7 @@
+GitHub Lab:
+
+1. What is the first command you always need to initialize a git repository?
+A: git init
+
+2. You see your friend pushed code to their repository with the following commit message "done!". Is this a good commit message? why or why not?
+A: no it's not a good commit message (idk what did he commit what changes he have made) the message should be specific of what have you done before committing to GitHub
